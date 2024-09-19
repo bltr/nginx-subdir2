@@ -1,4 +1,4 @@
  <?php
 
- echo 'public php <pre>';
+ echo 'frontend php <pre>';
  var_dump($_SERVER['REQUEST_URI']);
